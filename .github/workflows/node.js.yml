@@ -11,7 +11,8 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - run: cd /src/statusfy
+    - run: dir
+    - run: cd ./src/statusfy
     - uses: actions/checkout@v2
     - name: Use Node.js 12
       uses: actions/setup-node@v2
