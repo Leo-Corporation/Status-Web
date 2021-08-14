@@ -17,6 +17,6 @@ jobs:
       with:
         node-version: 12
         cache: 'npm'
-    - run: npm ci
     - run: cd src/statusfy
+    - run: npm ci
     - run: npm run generate
