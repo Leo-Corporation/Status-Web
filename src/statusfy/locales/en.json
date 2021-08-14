@@ -1,0 +1,24 @@
+{
+  "title": "Léo Corporation Status",
+  "description": "Status page of Léo Corporation",
+  "systems": {
+    "items": {
+      "website": {
+        "title": "Website",
+        "description": "Léo Corporation's website."
+      },
+      "update-system": {
+        "title": "Update System",
+        "description": "The update system of our apps."
+      },
+      "xalyus-store": {
+        "title": "Xalyus Store",
+        "description": "Xalyus Store services."
+      },
+      "gavilya-services": {
+        "title": "Gavilya Services",
+        "description": "Services used by Gavilya to work properly."
+      }
+    }
+  }
+}

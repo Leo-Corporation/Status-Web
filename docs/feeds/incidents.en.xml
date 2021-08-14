@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Léo Corporation</title>
+        <link>https://status.leocorporation.dev</link>
+        <description>Status page of Léo Corporation</description>
+        <lastBuildDate>Sat, 14 Aug 2021 11:07:15 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Statusfy</generator>
+        <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Website issues]]></title>
+            <link>https://status.leocorporation.dev/incidents/77314bf9</link>
+            <guid>https://status.leocorporation.dev/incidents/77314bf9</guid>
+            <pubDate>Sat, 14 Aug 2021 11:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Website is down.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
