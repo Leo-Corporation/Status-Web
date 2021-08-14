@@ -8,7 +8,7 @@
     "dev": "statusfy dev",
     "build": "statusfy build",
     "start": "statusfy start",
-    "generate": "statusfy generate -d ../../docs",
+    "generate": "statusfy generate -d ../../docs && powershell New-Item -Path ../../docs -Name \"CNAME\" -ItemType \"file\" -Value \"status.leocorporation.dev\"",
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
     "update-incident": "statusfy update-incident",
