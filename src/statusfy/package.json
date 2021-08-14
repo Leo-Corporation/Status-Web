@@ -11,7 +11,8 @@
     "generate": "statusfy generate -d ../../docs",
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
-    "update-incident": "statusfy update-incident"
+    "update-incident": "statusfy update-incident",
+    "deploy": "gh-pages -d ../../docs"
   },
   "dependencies": {
     "@babel/preset-env": "^7.12.17",
@@ -20,5 +21,8 @@
   "engines": {
     "node": ">=10",
     "npm": ">=5"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
