@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Fri, 27 Aug 2021 10:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 18:13:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,6 +14,13 @@
             <guid>https://status.leocorporation.dev/incidents/1c4532ec</guid>
             <pubDate>Fri, 27 Aug 2021 09:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>Some elements of the website aren't displaying correctly.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-08-27T18:12:13.784Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The issue has been resolved, our websites should look like normal.</p>
+</div></div></div>
 <div class="update-block">
           <div class="update-block-date">2021-08-27T10:35:32.580Z</div>
           <div class="update-block-content">
