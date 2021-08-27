@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Fri, 27 Aug 2021 09:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 10:39:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -14,7 +14,19 @@
             <guid>https://status.leocorporation.dev/incidents/1c4532ec</guid>
             <pubDate>Fri, 27 Aug 2021 09:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<p>Some elements of the website aren't displaying correctly.</p>
-<!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-08-27T10:35:32.580Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>The issue isn't fixed yes, but the problem is probably linked to TailwindCSS classes. We are monitoring and following closely the ongoing situation. Websites below are impacted:</p>
+<ul>
+<li>leocorporation.dev</li>
+<li>privacy.leocorporation.dev</li>
+<li>gavilya.leocorporation.dev</li>
+<li>datalya.leocorporation.dev</li>
+</ul>
+</div></div></div>
 ]]></content:encoded>
         </item>
     </channel>
