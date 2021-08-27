@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2021-08-27T10:39:45.484Z</updated>
+    <updated>2021-08-27T10:41:49.863Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
@@ -18,7 +18,7 @@
           <div class="update-block-content">
             <div class="update-block-title">Monitoring</div>
             <div class="update-block-body">
-<p>The issue isn't fixed yes, but the problem is probably linked to TailwindCSS classes. We are monitoring and following closely the ongoing situation. Websites below are impacted:</p>
+<p>The issue isn't fixed yet, but the problem is probably linked to TailwindCSS classes. We are monitoring and following closely the ongoing situation. Websites below are impacted:</p>
 <ul>
 <li>leocorporation.dev</li>
 <li>privacy.leocorporation.dev</li>
