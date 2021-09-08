@@ -4,10 +4,25 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Wed, 08 Sep 2021 11:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 12:14:37 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The website doesn't look like normal]]></title>
+            <link>https://status.leocorporation.dev/incidents/6e5e4c10</link>
+            <guid>https://status.leocorporation.dev/incidents/6e5e4c10</guid>
+            <pubDate>Wed, 08 Sep 2021 12:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Titles, buttons and more, aren't displaying as properly.</p>
+<div class="update-block">
+          <div class="update-block-date">2021-09-08T12:13:32.456Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The issue has been resolved, our websites should look like normal.</p>
+</div></div></div>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Elements of the website aren't displaying correctly.]]></title>
             <link>https://status.leocorporation.dev/incidents/1c4532ec</link>
