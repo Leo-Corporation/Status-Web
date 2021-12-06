@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2021-12-06T15:44:38.336Z</updated>
+    <updated>2021-12-06T15:45:44.111Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
@@ -20,7 +20,7 @@
             <div class="update-block-title">Monitoring</div>
             <div class="update-block-body">
 <p>We are closely monitoring the situation and we'll keep you updated about any significant development.</p>
-<h2>How Gavilya is affected</h2>
+<h4>How Gavilya is affected</h4>
 <p>Since the API isn't currently available, you'll see lots of error messages if you have linked your games to the RAWG database. This issue shouldn't however, cause a crash of the app.</p>
 </div></div></div>
 ]]></content>
