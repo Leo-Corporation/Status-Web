@@ -4,10 +4,19 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Mon, 06 Dec 2021 12:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:29:11 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RAWG API Down]]></title>
+            <link>https://status.leocorporation.dev/incidents/33d772a9</link>
+            <guid>https://status.leocorporation.dev/incidents/33d772a9</guid>
+            <pubDate>Mon, 06 Dec 2021 15:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[<p>The RAWG API is currently unavailable, some features of Gavilya no longer work.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[The website doesn't look like normal]]></title>
             <link>https://status.leocorporation.dev/incidents/6e5e4c10</link>

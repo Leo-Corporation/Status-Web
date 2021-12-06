@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2021-12-06T12:34:44.570Z</updated>
+    <updated>2021-12-06T15:29:11.953Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
     <subtitle>Status page of Léo Corporation</subtitle>
+    <entry>
+        <title type="html"><![CDATA[RAWG API Down]]></title>
+        <id>https://status.leocorporation.dev/incidents/33d772a9</id>
+        <link href="https://status.leocorporation.dev/incidents/33d772a9"/>
+        <updated>2021-12-06T15:28:37.145Z</updated>
+        <content type="html"><![CDATA[<p>The RAWG API is currently unavailable, some features of Gavilya no longer work.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The website doesn't look like normal]]></title>
         <id>https://status.leocorporation.dev/incidents/6e5e4c10</id>

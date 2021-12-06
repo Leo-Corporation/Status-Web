@@ -1,0 +1,1 @@
+{"id":"33d772a9","title":"RAWG API Down","date":"2021-12-06T15:28:37.145Z","modified":"2021-12-06T15:29:01.994Z","scheduled":null,"severity":"major-outage","affectedsystems":["gavilya-services"],"resolved":false,"content":"<p>The RAWG API is currently unavailable, some features of Gavilya no longer work.</p>\n<!--- language code: en -->\n"}
