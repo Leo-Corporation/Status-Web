@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Mon, 06 Dec 2021 15:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:44:38 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,15 @@
             <pubDate>Mon, 06 Dec 2021 15:28:37 GMT</pubDate>
             <content:encoded><![CDATA[<p>The RAWG API is currently unavailable, some features of Gavilya no longer work.</p>
 <!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2021-12-06T15:40:32.659Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>We are closely monitoring the situation and we'll keep you updated about any significant development.</p>
+<h2>How Gavilya is affected</h2>
+<p>Since the API isn't currently available, you'll see lots of error messages if you have linked your games to the RAWG database. This issue shouldn't however, cause a crash of the app.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
