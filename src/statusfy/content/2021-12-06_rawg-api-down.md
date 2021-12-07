@@ -4,12 +4,16 @@ date: '2021-12-06T15:28:37.145Z'
 severity: partial-outage
 affectedsystems:
   - gavilya-services
-resolved: false
-modified: '2021-12-06T19:50:22.889Z'
+resolved: true
+modified: '2021-12-07T14:24:34.302Z'
 ---
 The RAWG API is currently unavailable, some features of Gavilya no longer work.
 
 <!--- language code: en -->
+::: update Resolved | 2021-12-07T14:24:34.302Z
+The issue is now resolved. All Gavilya's services should work as expected.
+:::
+
 ::: update Monitoring | 2021-12-06T19:50:22.889Z
 Here what's new since the last update:
 
