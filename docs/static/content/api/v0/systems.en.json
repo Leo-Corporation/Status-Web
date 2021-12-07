@@ -1,1 +1,1 @@
-[{"name":"website","status":"operational","order":1},{"name":"update-system","status":"operational","order":2},{"name":"xalyus-store","status":"operational","order":3},{"name":"gavilya-services","status":"partial-outage","order":4}]
+[{"name":"website","status":"operational","order":1},{"name":"update-system","status":"operational","order":2},{"name":"xalyus-store","status":"operational","order":3},{"name":"gavilya-services","status":"operational","order":4}]
