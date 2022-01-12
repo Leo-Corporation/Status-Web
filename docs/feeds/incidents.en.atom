@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2022-01-11T14:34:10.238Z</updated>
+    <updated>2022-01-12T12:11:53.824Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
