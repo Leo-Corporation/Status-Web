@@ -7,7 +7,7 @@
   <h1 align="center">Status-Web</h3>
 
   <p align="center">
-    A modern and simple database manager for Windows written in C# .NET 5.
+    Status website.
     <br />
     <a href="https://github.com/Leo-Corporation/Status-Web/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBug%5D+">Report Bug</a>
     ·
