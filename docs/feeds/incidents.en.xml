@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:57:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,14 @@
             <pubDate>Fri, 18 Feb 2022 08:44:00 GMT</pubDate>
             <content:encoded><![CDATA[<p>When downloading an application in Xalyus Store, the app crashes.</p>
 <!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2022-02-18T08:55:19.184Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Monitoring</div>
+            <div class="update-block-body">
+<p>We found the cause of the issue and we are working on a fix. Howerver, it might get released later this day.
+You can use our <a href="https://leocorporation.dev/" target="_blank" rel="noopener noreferrer" class="external">website</a> to download our apps if needed.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
