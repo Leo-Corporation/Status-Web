@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 11:22:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -16,12 +16,19 @@
             <content:encoded><![CDATA[<p>When downloading an application in Xalyus Store, the app crashes.</p>
 <!--- language code: en -->
 <div class="update-block">
+          <div class="update-block-date">2022-02-18T11:19:40.769Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>A fix for Xalyus Store is now rolling out to everyone. Thanks for your patience. Note that if cannot install it, we strongly recommand you reinstall Xalyus Store by <a href="https://bit.ly/DownloadNewXalyusStore" target="_blank" rel="noopener noreferrer" class="external">downloading it again here</a>.</p>
+<div class="update-block">
           <div class="update-block-date">2022-02-18T08:55:19.184Z</div>
           <div class="update-block-content">
             <div class="update-block-title">Monitoring</div>
             <div class="update-block-body">
 <p>We found the cause of the issue and we are working on a fix. Howerver, it might get released later this day.
 You can use our <a href="https://leocorporation.dev/" target="_blank" rel="noopener noreferrer" class="external">website</a> to download our apps if needed.</p>
+</div></div></div>
 </div></div></div>
 ]]></content:encoded>
         </item>
