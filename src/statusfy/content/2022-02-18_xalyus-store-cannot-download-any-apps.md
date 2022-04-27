@@ -11,7 +11,7 @@ When downloading an application in Xalyus Store, the app crashes.
 
 <!--- language code: en -->
 ::: update Resolved | 2022-02-18T11:19:40.769Z
-A fix for Xalyus Store is now rolling out to everyone. Thanks for your patience. Note that if cannot install it, we strongly recommand you reinstall Xalyus Store by [downloading it again here](https://bit.ly/DownloadNewXalyusStore).
+A fix for Xalyus Store is now rolling out to everyone. Thanks for your patience. Note that if cannot install it, we strongly recommand you reinstall Xalyus Store by [downloading it again here](https://tinyurl.com/DownloadXalyusStore).
 :::
 
 ::: update Monitoring | 2022-02-18T08:55:19.184Z
