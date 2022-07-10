@@ -1,4 +1,33 @@
+@font-face {
+    font-family: 'Hauora';
+    src: url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Hauora";
+    src: url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-Bold.woff') format('woff');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Hauora";
+    src: url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-ExtraBold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-ExtraBold.woff') format('woff');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Hauora";
+    src: url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-SemiBold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/Leo-Corporation/LeoCorp-Docs/master/Fonts/Hauora-SemiBold.woff') format('woff');
+    font-weight: 600;
+}
+
 body {
-    --font-family-sans-serif: 'Montserrat', sans-serif;
+    --font-family-sans-serif: 'Hauora', 'Montserrat', sans-serif;
     --purple: #ffad0a
 }
