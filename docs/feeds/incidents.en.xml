@@ -4,10 +4,20 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:55:19 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DNS Modification]]></title>
+            <link>https://status.leocorporation.dev/incidents/1d272fd4</link>
+            <guid>https://status.leocorporation.dev/incidents/1d272fd4</guid>
+            <pubDate>Wed, 24 Aug 2022 07:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[<p>We are updating our DNS Configuration, which will make our blog unaccessible for some time.
+We are rolling out a new update for our blog.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Download links are no longer working]]></title>
             <link>https://status.leocorporation.dev/incidents/eb35a198</link>
