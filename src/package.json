@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "statusfy": "^0.5.0"
+  },
+  "dependencies": {
+    "node": "16.11.0"
   }
 }
