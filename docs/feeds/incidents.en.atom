@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2023-03-22T06:05:39.631Z</updated>
+    <updated>2023-03-22T12:44:24.677Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
     <subtitle>Status page of Léo Corporation</subtitle>
+    <entry>
+        <title type="html"><![CDATA[DNS change]]></title>
+        <id>https://status.leocorporation.dev/incidents/fa23d038</id>
+        <link href="https://status.leocorporation.dev/incidents/fa23d038"/>
+        <updated>2023-03-22T12:41:54.671Z</updated>
+        <content type="html"><![CDATA[<p>We are making some changes in our DNS configuration. Some of our subdomains may not be available.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNS Modification]]></title>
         <id>https://status.leocorporation.dev/incidents/1d272fd4</id>
