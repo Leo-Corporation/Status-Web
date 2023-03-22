@@ -4,7 +4,7 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Wed, 22 Mar 2023 12:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 13:35:01 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,13 @@
             <pubDate>Wed, 22 Mar 2023 12:41:54 GMT</pubDate>
             <content:encoded><![CDATA[<p>We are making some changes in our DNS configuration. Some of our subdomains may not be available.</p>
 <!--- language code: en -->
+<div class="update-block">
+          <div class="update-block-date">2023-03-22T13:32:33.091Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>We have successfully removed one of our DNS record pointing to a development URL.</p>
+</div></div></div>
 ]]></content:encoded>
         </item>
         <item>
