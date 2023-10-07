@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://status.leocorporation.dev</id>
     <title>Léo Corporation</title>
-    <updated>2023-10-07T07:36:03.938Z</updated>
+    <updated>2023-10-07T15:18:53.717Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="https://status.leocorporation.dev"/>
     <link rel="self" href="https://status.leocorporation.dev/feeds/incidents.en.atom"/>
     <subtitle>Status page of Léo Corporation</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Internal Server Error when using Passliss]]></title>
+        <id>https://status.leocorporation.dev/incidents/7b1f1a88</id>
+        <link href="https://status.leocorporation.dev/incidents/7b1f1a88"/>
+        <updated>2023-10-07T15:16:32.672Z</updated>
+        <content type="html"><![CDATA[<p>When connecting to passliss.leocorporation.dev, a 500 Internal Server Error is displayed, causing the website to not work properly.</p>
+<!--- language code: en -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNS change]]></title>
         <id>https://status.leocorporation.dev/incidents/fa23d038</id>

@@ -4,10 +4,19 @@
         <title>Léo Corporation</title>
         <link>https://status.leocorporation.dev</link>
         <description>Status page of Léo Corporation</description>
-        <lastBuildDate>Sat, 07 Oct 2023 07:36:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 15:18:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Statusfy</generator>
         <atom:link href="https://status.leocorporation.dev/feeds/incidents.en.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Internal Server Error when using Passliss]]></title>
+            <link>https://status.leocorporation.dev/incidents/7b1f1a88</link>
+            <guid>https://status.leocorporation.dev/incidents/7b1f1a88</guid>
+            <pubDate>Sat, 07 Oct 2023 15:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[<p>When connecting to passliss.leocorporation.dev, a 500 Internal Server Error is displayed, causing the website to not work properly.</p>
+<!--- language code: en -->
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[DNS change]]></title>
             <link>https://status.leocorporation.dev/incidents/fa23d038</link>
