@@ -16,5 +16,4 @@
   </p>
 </p>
 
-The status website for Léo Corporation.
-Available at [status.leocorporation.dev](https://status.leocorporation.dev).
+Old status page of Léo Corporation. Moved to [status.peyronnet.group](https://status.peyronnet.group).
